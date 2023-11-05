@@ -1,2 +1,2 @@
 # giovanerobino.github.io
-githubpages ruby
+githubpages usando jekyll
